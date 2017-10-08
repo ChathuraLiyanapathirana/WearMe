@@ -1,0 +1,17 @@
+/*form{
+    background:url(../image/Slogan.png)no-repeat center center;
+    background-size:cover;
+}*/
+
+a{
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.full-width{
+    width: 100% !important;
+}
+
+.align-center{
+    text-align: center !important;
+}
